@@ -1,0 +1,26 @@
+{
+  "name": "trend-clinic",
+  "version": "1.0.0",
+  "description": "Modern Healthcare Clinic Website",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^13.2.3",
+    "i18next": "^23.5.0",
+    "framer-motion": "^10.16.4",
+    "lucide-react": "^0.263.1",
+    "axios": "^1.5.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.5",
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.16"
+  }
+}
